@@ -70,7 +70,7 @@ Born with Windows, I've also used both Mac and Linux. Actually enthusiast with P
 
 ### Hi there 👋
 
-I'm writing a simple and minimal blog on https://ap.bearblog.dev/.
+I'm writing a simple and minimal blog on https://dt.bearblog.dev/.
 
 <!--
 **Daniele-Tentoni/Daniele-Tentoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
