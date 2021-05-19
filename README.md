@@ -70,6 +70,8 @@ Born with Windows, I've also used both Mac and Linux. Actually enthusiast with P
 
 ### Hi there 👋
 
+You can find me on Gitlab too https://gitlab.com/daniele.tentoni2.
+
 I'm writing a simple and minimal blog on https://dt.bearblog.dev/.
 
 <!--
