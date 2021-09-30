@@ -61,12 +61,12 @@ I'm a chief of the major boy scout association in Italy, AGESCI. I'm an AVIS vol
 | Jade (JAva Distributed Environment) | Entry Level | Academic Purpose Only |
 | Node.JS | Entry Level | Academic Purpose Only |
 | Socket.IO | Entry Level | Academic Purpose Only |
-| Vue.JS 2 | Entry Level | Academic Purpose Only |
+| Vue.Js, Vuex, Vue Router, Vue Axios | Entry Level | Academic Purpose Only |
 | Xamarin | Entry Level | 1 |
 
 ### OS
 
-Born with Windows, I've also used both Mac and Linux. Actually enthusiast with PopOS!
+Born with Windows, I've also used both Mac and Linux. Actually enthusiast with [PopOS](https://pop.system76.com/)!
 
 ### Languages
 
