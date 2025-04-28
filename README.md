@@ -11,9 +11,10 @@ I'm a Developer at Wedo S.R.L. and I'm working on .NET web applications. I'm act
 
 | Since | To | Position |
 | --- | --- | --- |
-| Jun 2018 | now | Full Stack Developer at Wedo S.R.L. in Cesena |
+| Nov 2022 | now | Full Stack Developer at Horsa Devlab S.R.L. in Cesena |
+| Jun 2018 | Nov 2022 | Full Stack Developer at Wedo S.R.L. in Cesena |
 | Apr 2018 | Jun 2018 | Stagist in Wedo S.R.L. in Cesena |
-| May 2014 | July 2014 | Stagist in Studio Aurale di Marco Pasquale in Cesena |
+| May 2014 | Jul 2014 | Stagist in Studio Aurale di Marco Pasquale in Cesena |
 
 </details>
 
@@ -24,7 +25,7 @@ I'm a Developer at Wedo S.R.L. and I'm working on .NET web applications. I'm act
 
 | Since | To | Position |
 | --- | --- | --- |
-| Sep 2019 | now | Student at Alma Mater Studiorum - Università di Bologna - Engineering and Computer Science |
+| Sep 2019 | Mar 2025 | Student at Alma Mater Studiorum - Università di Bologna - Master's Degree in Engineering and Computer Science |
 | Sep 2016 | Mar 2019 | Student at Alma Mater Studiorum - Università di Bologna - Engineering and Computer Science |
 | Sep 2010 | Jun 2016 | Student at Istituto Tecnico Tecnologico Blaise Pascal |
 
@@ -48,20 +49,20 @@ I'm a chief of the major boy scout association in Italy, AGESCI. I'm an AVIS vol
 
 | Tecnology | Level | # Year of Experience |
 | --- | --- | --- |
-| C# | Mid Level | 5 |
-| HTML, CSS, JS | Mid Level | 7 |
+| C# | Mid Level | 6 |
+| HTML, CSS, JS | Mid Level | 8 |
 | Objective-C, Swift | Mid Level | 2 |
 | Java, Kotlin, Scala | Entry Level | Academic Purpose Only |
 
 | Tecnology | Level | # Year of Experience |
 | --- | --- | --- |
+| Vue.Js, Vuex, Pinia, Vue Router, Vue Axios | Entry Level | 4 |
 | Android, iOS | Entry Level | 2 |
 | ASP.NET | Mid Level | 3 |
 | Fastlane | Entry Level | 2 |
 | Jade (JAva Distributed Environment) | Entry Level | Academic Purpose Only |
 | Node.JS | Entry Level | Academic Purpose Only |
 | Socket.IO | Entry Level | Academic Purpose Only |
-| Vue.Js, Vuex, Vue Router, Vue Axios | Entry Level | Academic Purpose Only |
 | Xamarin | Entry Level | 1 |
 
 ### OS
